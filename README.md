@@ -1,23 +1,27 @@
 # AI Tools Onboarding
 
+## Overview
+This repository documents the setup process completed as part of a portfolio assignment.
+
 ## Tools Installed
 - Cursor IDE
-- Claude Code CLI (Anthropic)
-- Codex CLI (OpenAI)
-- Git / GitHub
+- Claude Code CLI
+- Codex CLI
+- Git
+- GitHub
 
 ## Steps Completed
-1. Installed Cursor IDE
-2. Created a public GitHub repository and cloned it locally
-3. Installed Claude Code via PowerShell (`irm https://claude.ai/install.ps1 | iex`) and logged in with a Claude account
-4. Installed Codex CLI via npm and logged in with a ChatGPT account
-5. Verified both tools were authenticated using `claude` and `codex login status`
-6. Documented the process in this README
-7. Committed and pushed changes to GitHub
+1. Installed Cursor IDE.
+2. Installed Claude Code via the official terminal installer and logged in.
+3. Installed Codex CLI via npm and logged in.
+4. Created a public GitHub repository.
+5. Opened the repository in Cursor.
+6. Created this README file.
+7. Committed and pushed the repository to GitHub.
 
 ## Issues Encountered
-- Claude Code and Codex are not regular Cursor "Extensions" — they had to be installed and run via the terminal (PowerShell/npm) rather than through the Extensions or Plugins marketplace.
-- The first Codex login attempt timed out before browser authentication completed; retried `codex login` and it succeeded.
+- Git was not initially recognized in the terminal, even though it was already installed — resolved by restarting the IDE so it picked up the correct PATH.
+- The Codex login session timed out on the first attempt; re-running the login command completed it successfully.
 
-## Notes
-This repository was completed as a portfolio/screening task as part of a hiring process.
+## Outcome
+The development environment has been successfully configured and is ready for future portfolio projects.
