@@ -25,3 +25,45 @@ This repository documents the setup process completed as part of a portfolio ass
 
 ## Outcome
 The development environment has been successfully configured and is ready for future portfolio projects.
+
+---
+
+## Research Project — LinkedIn Organic Content Strategy for B2B SaaS
+
+### Topic Chosen
+LinkedIn Organic Content Strategy for B2B SaaS — how practitioners and companies use LinkedIn's non-paid features (posts, carousels, newsletters, comments) to build pipeline and thought leadership.
+
+### Why This Topic
+LinkedIn organic content is one of the highest-ROI channels for B2B SaaS companies and a rapidly evolving space. Studying how top practitioners approach it produces immediately applicable frameworks and demonstrates domain knowledge relevant to GTM and marketing roles.
+
+### Tools Used
+- **Python 3** — scripting for transcript fetching and content organisation
+- **Supadata API** — programmatic YouTube transcript retrieval
+- **Git & GitHub** — version control and portfolio presentation
+- **Claude Code** — AI-assisted research, code generation, and documentation
+- **Cursor IDE** — development environment
+
+### Repository Structure
+```
+ai-tools-onboarding/
+├── docs/
+│   └── project-overview.md
+├── research/
+│   ├── methodology.md
+│   ├── sources.md
+│   ├── linkedin-posts/
+│   ├── youtube-transcripts/
+│   └── articles/
+├── scripts/
+│   ├── fetch_transcripts.py
+│   └── organize_linkedin.py
+├── .gitignore
+└── requirements.txt
+```
+
+### Expert List
+Experts will be added to `research/sources.md` as research progresses. Placeholders are in place — no names have been invented.
+
+| Expert Name | Platform | Status |
+|-------------|----------|--------|
+| _To be added_ | LinkedIn / YouTube | Pending |
