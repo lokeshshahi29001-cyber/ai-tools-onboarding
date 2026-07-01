@@ -1,13 +1,18 @@
-# Transcript: Untitled
+# Transcript: Justin Welsh Shows You How To Start & Grow A One-Person Business
 
 **Expert:** justin-welsh
-**Source URL:** https://youtu.be/0UxQbhaoMlQ
-**Video ID:** 0UxQbhaoMlQ
+
+**Source URL:** https://youtu.be/0UxQbhaoMIQ
+
+**Video ID:** 0UxQbhaoMIQ
+
 **Date Collected:** 2026-07-01
 
+**Note:** The Supadata API returned an empty transcript for this video. The transcript below was copied from YouTube's built-in transcript, which is an allowed free transcript source under the assignment instructions.
 ---
 
 ## Transcript
+
 Intro
 I gave for free for many many years and now I'm in my stage where I I get to earn the ask and so I ask a lot more now
 than I used to. But I do think that if you're just getting started it should be give give give ask, right? Like maybe
