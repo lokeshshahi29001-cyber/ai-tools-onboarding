@@ -18,7 +18,7 @@ Dave Gerhardt is the founder of Exit Five, a community and media company for B2B
 
 **Post URL: [https://www.linkedin.com/posts/davegerhardt_i-am-tired-of-the-slop-i-cant-take-anymore-share-7478400473067089920-6Ygj/?](https://www.linkedin.com/posts/davegerhardt_i-am-tired-of-the-slop-i-cant-take-anymore-share-7478400473067089920-6Ygj/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGm7CCEB9Dm-YexA7T6znt3FuzvPi5c5Rkk)**
 
-**Date: 2026**
+**Date: 2026-07-02**
 
 ### Summary
 
