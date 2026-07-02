@@ -1,4 +1,4 @@
-# Justin Welsh
+# pJustin Welsh
 
 ## LinkedIn Profile
 
@@ -69,13 +69,9 @@ In this interview, Justin Welsh explains how he built a $10M one-person business
 ### Key Takeaways
 
 - Build trust by consistently sharing valuable content before selling.
-
 - Focus on solving problems for a clearly defined target audience.
-
 - Long-form content builds deeper authority than short-form content alone.
-
 - AI should be used to enhance productivity, not replace authentic expertise.
-
 - A personal brand can scale into a highly profitable business without a large team.
 
 ---
@@ -97,12 +93,11 @@ The Saturday Essay is Justin Welsh's weekly newsletter where he shares practical
 ### Key Takeaways
 
 - Build valuable assets through consistent content creation.
-
 - Design business systems that create leverage and freedom.
-
 - Grow an audience you own through email and newsletters.
-
 - Focus on sustainable long-term business growth.
+
+
 
 # Why Justin Welsh?
 
