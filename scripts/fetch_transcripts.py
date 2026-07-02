@@ -11,7 +11,7 @@ from youtube_transcript_api import YouTubeTranscriptApi
 import requests
 
 # YouTube Data API v3 key (used for video metadata)
-YOUTUBE_API_KEY = "AIzaSyDmvrd5B9DJWZT7xzckkbHJjCNBg5gbQBo"
+YOUTUBE_API_KEY = "YOUTUBE_API_KEY = "YOUR_YOUTUBE_API_KEY_HERE""
 
 OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "..", "research", "youtube-transcripts")
 

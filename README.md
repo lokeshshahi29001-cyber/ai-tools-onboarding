@@ -38,10 +38,17 @@ LinkedIn organic content is one of the highest-ROI channels for B2B SaaS compani
 
 ### Tools Used
 - **Python 3** — scripting for transcript fetching and content organisation
-- **Supadata API** — programmatic YouTube transcript retrieval
+- **youtube-transcript-api** – automated YouTube transcript extraction
+- **YouTube Data API v3** – retrieval of video metadata (title, ID, channel information)
 - **Git & GitHub** — version control and portfolio presentation
 - **Claude Code** — AI-assisted research, code generation, and documentation
 - **Cursor IDE** — development environment
+
+### Implementation Notes
+
+The project initially attempted to use the Supadata API for YouTube transcript retrieval. Although the API connected successfully, it consistently returned empty transcript content for the tested videos.
+
+To ensure reliable transcript collection, the implementation was updated to use the `youtube-transcript-api` library for transcript extraction together with the YouTube Data API v3 for retrieving video metadata. This solution successfully generated complete transcript files for the research repository.
 
 ### Repository Structure
 ```
