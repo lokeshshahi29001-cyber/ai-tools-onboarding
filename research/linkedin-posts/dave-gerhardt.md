@@ -56,21 +56,19 @@ Dave Gerhardt promotes the Drive 2026 B2B marketing conference by highlighting t
 
 ## YouTube Resource
 
-**Video Title:**
+**Video Title:** Demand Gen Plays for the Antisocial Buyer
 
-**Video URL:**
+**Video URL: [https://www.youtube.com/watch?v=LYsGQtIjNh8](https://www.youtube.com/watch?v=LYsGQtIjNh8)**
 
 ### Summary
 
-(Add after running transcript script)
+In this Exit Five Live session, Dave Gerhardt and guest B2B marketers discuss how AI is fundamentally changing the buying journey. Buyers now complete most of their research through Google, Reddit, ChatGPT, and other AI tools before ever speaking with sales. The discussion explores how marketing teams should adapt by investing in brand awareness, ungated educational content, AI search visibility (AEO), influencer marketing, and authentic thought leadership. The speakers share practical case studies on improving demand generation by focusing on trust, buyer education, and long-term brand recognition instead of relying solely on traditional lead generation metrics.
 
 ### Key Takeaways
 
-- 
-
-- 
-
-- 
+- Modern B2B buyers complete much of their research before contacting sales.  
+- Strong brand awareness increases trust and improves long-term demand generation.  
+- Educational, buyer-focused content is essential for influencing purchasing decisions.
 
 ---
 
