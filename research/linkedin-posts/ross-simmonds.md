@@ -82,21 +82,25 @@ Ross Simmonds explains how Reddit has become one of the most influential platfor
 
 ## Additional Resource
 
-**Type:** Newsletter
+**Type:** Blog Article
 
-**Title:** Create and Distribute
+**Title:** The B2B Buyer Journey: Using Content to Influence Modern Enterprise Decisions
 
-**URL:** [https://foundationinc.co/newsletter](https://foundationinc.co/newsletter)
+**URL:** [https://foundationinc.co/lab/b2b-buyer-journey/](https://foundationinc.co/lab/b2b-buyer-journey/)
 
 ### Summary
 
-Ross Simmonds' newsletter covers content distribution strategy, organic growth, and B2B content marketing. Focused on helping marketers get more out of the content they already create by distributing it strategically across channels.
+This article explains how modern enterprise buyers move from problem awareness to supplier selection through multiple content touchpoints rather than a single marketing interaction. Ross Simmonds shows how strategic content distribution, educational resources, and consistent engagement influence buyers throughout complex B2B purchasing journeys.
 
 ### Key Takeaways
 
-- Create once, distribute forever
-- Distribution is more important than creation
-- Content that ranks and gets shared builds long term pipeline
+- Enterprise B2B buying is driven by multiple content touchpoints, not a single interaction.
+
+- Educational content builds trust throughout every stage of the buyer journey.
+
+- Content distribution is as important as content creation.
+
+- Different content formats should support buyers from awareness through supplier selection.
 
 ---
 
@@ -104,4 +108,4 @@ Ross Simmonds' newsletter covers content distribution strategy, organic growth, 
 
 ## Why Ross Simmonds?
 
-Ross Simmonds is one of the most respected voices in B2B content marketing and distribution. His philosophy of "create once, distribute forever" has influenced how SaaS companies think about LinkedIn organic content — not just creating posts but strategically amplifying them across multiple channels for maximum reach and impact.
+Ross Simmonds is one of the most respected voices in B2B content marketing and distribution. His philosophy of "create once, distribute forever" has influenced how SaaS companies approach content strategy—not just creating high-quality content, but strategically amplifying it across multiple channels to build brand awareness, generate demand, and influence buyers throughout the B2B customer journey.
