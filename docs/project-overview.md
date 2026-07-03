@@ -1,8 +1,10 @@
-# Project Overview — LinkedIn Organic Content Strategy for B2B SaaS
+# # Project Overview — LinkedIn Organic Content Strategy for B2B SaaS
 
 ## Purpose
 
-This project is a research repository built as part of a portfolio hiring assignment. It demonstrates the ability to use AI-assisted research workflows, Python scripting, external APIs, and version control to collect and organise domain knowledge systematically.
+This project was developed as part of an AI Tools Onboarding portfolio assignment. It demonstrates the use of AI-assisted research workflows, Python automation, external APIs, Git, and GitHub to systematically collect, organize, and document knowledge from leading B2B SaaS marketing practitioners.
+
+The repository combines automated transcript collection with structured research documentation to create a reusable knowledge base for LinkedIn organic content strategy.
 
 ---
 
@@ -10,28 +12,54 @@ This project is a research repository built as part of a portfolio hiring assign
 
 **LinkedIn Organic Content Strategy for B2B SaaS**
 
-The research focuses on how B2B SaaS companies and practitioners use LinkedIn's organic (non-paid) features — posts, carousels, newsletters, comments — to build pipeline, grow audiences, and establish thought leadership.
+The research explores how leading B2B SaaS marketers use LinkedIn's organic features—including posts, newsletters, videos, comments, and thought leadership—to build brand awareness, generate demand, grow professional audiences, and establish industry authority.
 
 ---
 
 ## Repository Structure
 
-```
+```text
+
 ai-tools-onboarding/
+
+│
+
 ├── docs/
-│   └── project-overview.md       # This file
+
+│   └── [project-overview.md](http://project-overview.md)
+
+│
+
 ├── research/
-│   ├── methodology.md            # How research is collected and organised
-│   ├── sources.md                # Tracker table of all experts and content
-│   ├── linkedin-posts/           # Saved LinkedIn posts (.md files)
-│   ├── youtube-transcripts/      # Saved YouTube transcripts (.md files)
-│   └── articles/                 # Saved articles and blog posts (.md files)
+
+│   ├── [methodology.md](http://methodology.md)
+
+│   ├── [sources.md](http://sources.md)
+
+│   ├── articles/
+
+│   ├── linkedin-posts/
+
+│   └── youtube-transcripts/
+
+│
+
 ├── scripts/
-│   ├── fetch_transcripts.py      # Fetches YouTube transcripts via Supadata API
-│   └── organize_linkedin.py      # Saves LinkedIn posts as formatted .md files
+
+│   ├── fetch_[transcripts.py](http://transcripts.py)
+
+│   └── organize_[linkedin.py](http://linkedin.py)
+
+│
+
+├── .env
+
 ├── .gitignore
+
 ├── requirements.txt
-└── README.md
+
+└── [README.md](http://README.md)
+
 ```
 
 ---
@@ -39,35 +67,74 @@ ai-tools-onboarding/
 ## Tools Used
 
 | Tool | Purpose |
+
 |------|---------|
-| Python 3 | Scripting — transcript fetching and content organisation |
-| Supadata API | Fetching YouTube video transcripts programmatically |
-| Git | Version control for all research files and scripts |
-| GitHub | Remote repository and portfolio presentation |
-| Claude Code | AI-assisted research, code generation, and documentation |
-| Cursor IDE | Code editing environment |
+
+| Python 3 | Automation scripts and research workflows |
+
+| youtube-transcript-api | Automated YouTube transcript retrieval |
+
+| YouTube Data API v3 | Retrieval of video metadata |
+
+| Git | Version control |
+
+| GitHub | Repository hosting and portfolio presentation |
+
+| Claude Code | AI-assisted research, documentation, and code generation |
+
+| Cursor IDE | Development environment |
 
 ---
 
-## How to Run the Scripts
+## Research Workflow
 
-**Install dependencies:**
+The project follows a structured workflow:
+
+1. Select a recognized B2B marketing expert.
+
+2. Collect recent LinkedIn posts.
+
+3. Retrieve YouTube transcripts using Python automation.
+
+4. Research additional resources such as blogs, newsletters, and websites.
+
+5. Summarize findings into standardized Markdown documents.
+
+6. Organize all research using Git version control.
+
+---
+
+## Running the Scripts
+
+### Install dependencies
+
 ```bash
+
 pip install -r requirements.txt
+
 ```
 
-**Fetch a YouTube transcript:**
+### Fetch a YouTube transcript
+
 ```bash
-python scripts/fetch_transcripts.py "https://www.youtube.com/watch?v=XXXXX" "expert-name"
+
+python scripts/fetch_[transcripts.py](http://transcripts.py) "<youtube_url>" "<expert_name>"
+
 ```
 
-**Save a LinkedIn post:**
+### Organize a LinkedIn post
+
 ```bash
-python scripts/organize_linkedin.py "expert-name" "2026-06-15" "Post content goes here..."
+
+python scripts/organize_[linkedin.py](http://linkedin.py) "<expert_name>" "<YYYY-MM-DD>" "<post_content>"
+
 ```
 
 ---
 
-## Status
+## Project Status
 
-Research in progress. See `research/sources.md` for the current collection tracker.
+**Completed**
+
+The repository contains research on ten leading B2B SaaS marketing practitioners, including LinkedIn post analysis, YouTube transcripts, curated learning resources, and structured research documentation.
+
