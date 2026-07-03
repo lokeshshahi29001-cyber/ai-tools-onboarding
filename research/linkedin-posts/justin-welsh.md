@@ -84,12 +84,11 @@ In this interview, Justin Welsh explains how he built a $10M one-person business
 
 **Title:** The Saturday Solopreneur
 
-**URL:[https://www.justinwelsh.me/](https://www.justinwelsh.me/)**
+**URL: [https://www.justinwelsh.me/](https://www.justinwelsh.me/)**
 
 ### Summary
 
 Justin Welsh's newsletter shares practical insights on building a one-person business, personal branding, entrepreneurship, productivity, and sustainable business growth. Through weekly essays, he teaches creators and professionals how to build leverage, create digital assets, and grow profitable businesses without large teams.  
-
 
 ### Key Takeaways
 
