@@ -70,7 +70,6 @@ Lara Acosta outlines a practical LinkedIn content strategy for increasing engage
 
 Lara Acosta explains how LinkedIn's latest engineering research has fundamentally changed the platform's recommendation system. She debunks outdated LinkedIn growth myths, showing that success now depends on relevance, profile optimization, content quality, and audience alignment rather than posting times, engagement hacks, or viral tactics. The video emphasizes building a clear personal brand, creating content that matches your expertise, and leveraging LinkedIn's AI-driven distribution system to reach the right audience. She also shares practical frameworks for optimizing profiles, choosing a niche, and creating content that generates long-term visibility and inbound business opportunities.  
 
-
 ### Key Takeaways
 
 - Optimize your LinkedIn profile with clear positioning because the algorithm uses it to understand who you are and who should see your content.  
@@ -83,15 +82,15 @@ Lara Acosta explains how LinkedIn's latest engineering research has fundamentall
 
 ## Additional Resource
 
-**Type:** Academy
+**Type:** Newsletter
 
-**Title:** Literally Academy
+**Title:** That's Literally It
 
-**URL:** [https://www.literallyacademy.com/](https://www.literallyacademy.com/)
+**URL:** [https://thatsliterallyit.beehiiv.com/](https://thatsliterallyit.beehiiv.com/)
 
 ### Summary
 
-Literally Academy is Lara Acosta's educational platform that teaches professionals, founders, executives, and creators how to build profitable personal brands on LinkedIn. The academy provides practical training on content strategy, storytelling, positioning, audience growth, AI-assisted content creation, and inbound lead generation through structured frameworks and repeatable systems.
+That's Literally It is Lara Acosta's newsletter focused on LinkedIn growth, personal branding, creator entrepreneurship, AI-assisted content creation, and audience building. It shares practical frameworks, platform updates, writing strategies, and lessons for building authority through consistent content.
 
 ### Key Takeaways
 
@@ -107,4 +106,5 @@ Literally Academy is Lara Acosta's educational platform that teaches professiona
 
 ## Why Lara Acosta?
 
-Lara Acosta is one of the leading voices in LinkedIn personal branding and creator-led marketing. Through Literally Academy, she has helped thousands of professionals use storytelling, content systems, and AI to build authority and generate inbound opportunities. Her practical, framework-driven approach makes her one of the most valuable resources for learning modern LinkedIn strategy, personal branding, and B2B content marketing.
+Lara Acosta is one of the leading educators in LinkedIn personal branding and creator-led marketing. Through her newsletter, educational content, and training programs, she teaches professionals how to build authority, grow engaged audiences, and generate business opportunities using strategic storytelling, AI-assisted workflows, and repeatable content systems. Her practical approach makes her a valuable resource for research on LinkedIn organic growth and creator marketing.
+
