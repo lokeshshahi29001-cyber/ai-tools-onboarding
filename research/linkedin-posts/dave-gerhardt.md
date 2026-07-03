@@ -76,7 +76,7 @@ In this Exit Five Live session, Dave Gerhardt and guest B2B marketers discuss ho
 
 ## Additional Resource
 
-**Type:** Newsletter
+**Type:** Newsletter & Community
 
 **Title:** Exit Five
 
@@ -84,13 +84,13 @@ In this Exit Five Live session, Dave Gerhardt and guest B2B marketers discuss ho
 
 ### Summary
 
-Exit Five is Dave Gerhardt's community and newsletter for B2B marketers, covering demand generation, content marketing, career growth, and SaaS marketing strategies.
+Exit Five is a B2B marketing community founded by Dave Gerhardt that helps marketers grow through practical playbooks, newsletters, podcasts, case studies, and real-world marketing examples. It focuses on demand generation, content marketing, brand building, AI adoption, career growth, and modern SaaS marketing strategies.
 
 ### Key Takeaways
 
-- Build an audience before selling
-- Brand and demand generation should work together
-- Learn from practitioners not just theories
+- Build trust and an audience before trying to sell.
+- Combine brand marketing with demand generation for sustainable growth.
+- Learn from real practitioners through case studies, podcasts, and practical frameworks.
 
 ---
 
@@ -98,4 +98,4 @@ Exit Five is Dave Gerhardt's community and newsletter for B2B marketers, coverin
 
 ## Why Dave Gerhardt?
 
-Dave Gerhardt is one of the most influential B2B marketing voices on LinkedIn. As founder of Exit Five and former CMO at multiple SaaS companies, he practices what he teaches — building pipeline and brand through organic LinkedIn content.
+Dave Gerhardt is one of the most influential voices in modern B2B SaaS marketing. Through Exit Five, he shares practical strategies on content marketing, demand generation, personal branding, AI adoption, and marketing leadership. His experience as a former CMO and marketing executive makes him a trusted practitioner who emphasizes execution, community learning, and real-world examples over theory.
