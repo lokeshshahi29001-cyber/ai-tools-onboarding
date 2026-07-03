@@ -6,7 +6,9 @@
 
 ## Website
 
-[https://www.devinreed.com/](https://www.devinreed.com/)
+[https://www.thereeder.co/](https://www.thereeder.co/)
+
+
 
 ## About
 
@@ -84,17 +86,17 @@ Devin Reed interviews Aneesh Lal, founder of Wishly, about the evolution of B2B 
 
 **Title:** The Reeder
 
-**URL:** [https://www.devinreed.com/](https://www.devinreed.com/)
+**URL:** [https://www.thereeder.co/](https://www.thereeder.co/)
 
 ### Summary
 
-Devin Reed shares practical advice on B2B content marketing, LinkedIn strategy, storytelling, and building repeatable content systems for SaaS companies and creators.
+The Reeder is Devin Reed's weekly newsletter for B2B marketers, founders, and creators. It shares practical frameworks on content marketing, personal branding, storytelling, demand generation, thought leadership, and building scalable content systems. The newsletter emphasizes actionable strategies drawn from Devin's experience leading content at companies like Gong and Clari and helping B2B professionals grow their audience and business.
 
 ### Key Takeaways
 
-- Strong storytelling increases content engagement.
-- Content systems improve consistency and scale.
-- LinkedIn is a long-term channel for authority building.
+- Create content that builds trust long before buyers are ready to purchase.
+- Use storytelling and strong positioning to stand out in crowded markets.
+- Build repeatable content systems instead of relying on one-off viral posts.
 
 ---
 
@@ -102,4 +104,4 @@ Devin Reed shares practical advice on B2B content marketing, LinkedIn strategy, 
 
 ## Why Devin Reed?
 
-Devin Reed is widely recognized for helping B2B marketers create effective LinkedIn content and scalable content strategies. His practical frameworks make him a valuable resource for anyone studying organic B2B SaaS marketing.
+Devin Reed is one of the leading voices in B2B content marketing and LinkedIn thought leadership. Through his work leading content at Gong and Clari, as well as his newsletter, The Reeder, he teaches marketers how to build durable content systems, grow personal brands, and create content that drives long-term business results. His practical, experience-based frameworks make him a valuable resource for anyone studying LinkedIn organic strategy and B2B SaaS marketing.
