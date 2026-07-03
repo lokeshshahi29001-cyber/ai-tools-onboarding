@@ -82,23 +82,24 @@ In this interview, Justin Welsh explains how he built a $10M one-person business
 
 **Type:** Newsletter
 
-**Title: The Saturday Essay**
+**Title:** The Saturday Solopreneur
 
 **URL:[https://www.justinwelsh.me/](https://www.justinwelsh.me/)**
 
 ### Summary
 
-The Saturday Essay is Justin Welsh's weekly newsletter where he shares practical lessons on entrepreneurship, content marketing, personal branding, business systems, and building a profitable one-person business. The newsletter focuses on actionable advice drawn from his own experience as a successful solopreneur.
+Justin Welsh's newsletter shares practical insights on building a one-person business, personal branding, entrepreneurship, productivity, and sustainable business growth. Through weekly essays, he teaches creators and professionals how to build leverage, create digital assets, and grow profitable businesses without large teams.  
+
 
 ### Key Takeaways
 
-- Build valuable assets through consistent content creation.
-- Design business systems that create leverage and freedom.
-- Grow an audience you own through email and newsletters.
-- Focus on sustainable long-term business growth.
+- Build leverage through systems, digital products, and content.  
+- Grow a personal brand by publishing consistently.  
+- Design a business that prioritizes freedom and long-term sustainability.  
+- Focus on creating valuable assets instead of trading time for money.
 
 
 
 # Why Justin Welsh?
 
-Justin Welsh is one of the most influential LinkedIn creators in the B2B SaaS and personal branding space. His content provides practical frameworks for creating consistent LinkedIn content, growing an audience organically, and generating business opportunities through thought leadership.
+Justin Welsh is one of the most influential voices in personal branding and solopreneurship. After leaving executive leadership in SaaS, he built a highly successful one-person business by consistently creating educational content on LinkedIn and through his newsletter. His practical frameworks on audience building, content creation, and business systems make him a trusted resource for creators, consultants, and entrepreneurs looking to build sustainable online businesses.
