@@ -84,23 +84,27 @@ Kieran Flanagan explains how HubSpot uses AI across marketing, sales, and operat
 
 ## Additional Resource
 
-**Type:** Podcast
+**Type:** Newsletter
 
-**Title:** Marketing Against the Grain
+**Title:** If I Had to Build My Audience From Zero Today, Here's What I'd Do
 
-**URL:** [https://marketingagainstthegrain.com/](https://marketingagainstthegrain.com/)
+**Author:** Kieran Flanagan
 
-### Summary
+**Published:** June 26, 2026
 
-Marketing Against the Grain explores AI, B2B marketing, go-to-market strategy, content creation, and growth through conversations with industry leaders. Kieran Flanagan shares practical frameworks for applying AI to modern marketing while discussing emerging trends shaping the future of marketing teams.
+**URL:** [https://www.kieranflanagan.io/](https://www.kieranflanagan.io/)
+
+### Core Idea
+
+Kieran outlines the principles he would follow to build a personal audience from scratch in an AI-first world. He argues that AI should be used to improve thinking, audience understanding, and content systems — not simply to generate more content.
 
 ### Key Takeaways
 
-- AI is reshaping modern marketing workflows and team structures.
-- Strong positioning and original thinking remain key competitive advantages.
-- Marketing leaders should combine AI automation with human creativity.
-- Continuous experimentation is essential in an AI-first marketing landscape.
-- Practical AI implementation matters more than chasing new tools.
+- Publish content with a clear point of view instead of generic messaging
+- Use AI to understand audience needs, not replace human creativity
+- Master one platform before expanding to others
+- Prioritize audience quality and long-term trust over follower count
+- Build a memorable brand through consistent value rather than chasing algorithms
 
 ---
 
@@ -108,4 +112,4 @@ Marketing Against the Grain explores AI, B2B marketing, go-to-market strategy, c
 
 ## Why Kieran Flanagan?
 
-Kieran Flanagan is one of the most respected voices in B2B SaaS marketing and AI-driven growth. His expertise in demand generation, SEO, product-led growth, and emerging marketing technologies makes him a valuable expert for research on LinkedIn organic content strategy and modern B2B marketing.
+Kieran Flanagan is one of the leading voices in AI-powered B2B marketing and content strategy. Through his writing on Marketing AI Action, he shares practical frameworks for integrating AI into marketing workflows, audience research, content systems, and go-to-market execution. His work makes him a valuable resource for understanding modern content strategy, AI adoption, and long-term audience growth.
