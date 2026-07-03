@@ -6,7 +6,7 @@
 
 ## Website
 
-[https://clickup.com/](https://clickup.com/)
+[https://clickup.com/blog/author/kyle-coleman/](https://clickup.com/blog/author/kyle-coleman/)
 
 ## About
 
@@ -76,28 +76,32 @@ This webinar explores practical applications of AI for modern B2B sales and mark
 
 
 
-## Additional Resource
+## ## Additional Resource
 
-**Type:** Blog
+**Type:** Author Blog
 
-**Title:** ClickUp Blog
+**Title:** Kyle Coleman – ClickUp Blog
 
-**URL:** [https://clickup.com/blog/](https://clickup.com/blog/)
+**URL:** [https://clickup.com/blog/author/kyle-coleman/](https://clickup.com/blog/author/kyle-coleman/)
 
 ### Summary
 
-The ClickUp Blog publishes practical content on productivity, AI, project management, go-to-market strategy, sales, marketing, and business growth. As Global VP of Marketing, Kyle Coleman contributes thought leadership on modern B2B marketing, AI adoption, demand generation, revenue operations, and building scalable GTM organizations. The content is designed to help marketers, sales leaders, and founders improve execution while leveraging AI and automation to accelerate business growth.
+Kyle Coleman's ClickUp articles focus on AI transformation, go-to-market strategy, demand generation, revenue operations, marketing leadership, and organizational execution. Drawing from his experience as Global VP of Marketing at ClickUp, he shares practical frameworks for implementing AI across marketing teams, scaling GTM operations, improving productivity, and driving measurable business growth.
 
 ### Key Takeaways
 
-- AI should automate repetitive GTM work, allowing teams to focus on strategy, creativity, and customer relationships.
-- Successful B2B growth comes from aligning marketing, sales, and customer success around a unified go-to-market strategy.
-- High-performing revenue teams combine AI, quality data, operational excellence, and continuous experimentation to generate predictable pipeline.
+- Treat AI as an operational system, not just a collection of tools.
+
+- Use standardized workflows and repeatable processes to scale AI adoption.
+
+- Measure success through business outcomes, productivity, and operational leverage.
+
+- Align marketing, sales, and customer success around unified GTM execution.
+
+- Continuously experiment, document learnings, and optimize workflows.
 
 ---
 
+##  Why Kyle Coleman?
 
-
-## Why Kyle Coleman?
-
-Kyle Coleman is one of the most respected voices in modern B2B go-to-market strategy and AI-powered revenue generation. His leadership experience at ClickUp, [Copy.ai](http://Copy.ai), and Clari provides real-world insight into how AI is transforming marketing, sales, and revenue operations. Rather than focusing on theory, Kyle shares practical frameworks that organizations can immediately apply to improve pipeline generation, sales productivity, and GTM execution. His expertise makes him an essential resource for anyone looking to understand the future of AI-driven B2B marketing and revenue growth.
+Kyle Coleman is one of the leading practitioners of AI-powered B2B marketing and go-to-market strategy. As Global VP of Marketing at ClickUp, he shares real-world frameworks for scaling AI adoption, demand generation, and revenue operations. Unlike theoretical AI educators, his insights are based on implementing AI across large marketing organizations, making him a valuable resource for understanding practical AI transformation and modern GTM execution.
