@@ -6,7 +6,7 @@
 
 ## Website
 
-[https://marketingagainstthegrain.com/](https://marketingagainstthegrain.com/)
+[https://www.kieranflanagan.io/](https://www.kieranflanagan.io/)
 
 ## About
 
