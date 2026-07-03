@@ -80,19 +80,19 @@ Amanda Natividad interviews conversion optimization expert Talia Wolf about emot
 
 **Type:** Newsletter
 
-**Title:** The Marketing Rant
+**Title:** The Menu
 
-**URL:** [https://amandanat.com/newsletter](https://amandanat.com/newsletter)
+**URL:**  [https://amandanat.com/](https://amandanat.com/)
 
 ### Summary
 
-Amanda's newsletter covers practical B2B marketing advice focused on content strategy, audience building, and zero-click content. Written for marketers who want actionable insights without the fluff.
+The Menu is Amanda Natividad's weekly newsletter focused on zero-click marketing, audience research, content strategy, AI in marketing, and practical growth tactics for B2B marketers. Each edition delivers concise, actionable insights that help marketers build brand awareness, create meaningful content, and improve marketing performance without relying solely on paid advertising or traditional click-based metrics.  
 
 ### Key Takeaways
 
-- Zero-click content builds brand awareness without requiring a click
-- Audience research is the foundation of effective content
-- Organic content compounds over time unlike paid ads
+- Zero-click content builds trust and brand awareness by delivering value before asking for a click.  
+- Audience research and customer understanding should drive every content and marketing decision.  
+- Small, controlled marketing experiments produce faster learning and lower risk than large campaign bets.
 
 ---
 
@@ -100,4 +100,4 @@ Amanda's newsletter covers practical B2B marketing advice focused on content str
 
 ## Why Amanda Natividad?
 
-Amanda Natividad is one of the clearest thinkers on LinkedIn organic content strategy. Her concept of zero-click content has influenced how B2B SaaS companies approach LinkedIn — giving value upfront without requiring users to click away. Her work at SparkToro on audience research makes her a uniquely credible voice on understanding where audiences actually spend their time.g
+Amanda Natividad is one of the leading voices in LinkedIn organic content strategy and zero-click marketing. She has helped popularize the idea of creating valuable content that builds trust and brand awareness without requiring users to leave the platform. Through her work as Chief Evangelist at SparkToro, she combines audience research with practical marketing frameworks, making her a trusted resource for B2B SaaS marketers looking to grow through content, thought leadership, and organic demand generation.
