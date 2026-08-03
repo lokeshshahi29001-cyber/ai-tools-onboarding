@@ -399,3 +399,70 @@ judgment calls that actually move deals forward. Both experts are
 right about different parts of the same problem.
 
 ---
+---
+
+## Section 3: What I Rejected and Why
+
+This section identifies two ideas that appeared in the research but
+that I decided not to include in the core recommendations of this
+playbook. Both ideas come directly from experts in this repository.
+In each case, I explain my reasoning for the rejection.
+
+---
+
+### Rejected Idea 1: Prioritize direct outbound SDR activity as the
+primary pipeline driver
+
+**Where this idea comes from:**
+Morgan J. Ingram's research strongly emphasizes direct outbound
+activity — personalized prospecting, cold outreach, trigger-based
+sequences, and SDR pipeline generation — as the foundation of B2B
+revenue growth. His YouTube research in this repository demonstrates
+a full framework for building $1.8M in pipeline through outbound
+using AI-assisted prospecting workflows.
+
+*Source: `research/linkedin-posts/morgan-ingram.md`*
+*Source: `research/youtube-transcripts/morgan-ingram_aeu_fcrQM-w.md`*
+
+**Why I rejected this for this playbook:**
+I excluded this idea because it falls outside the scope of this
+playbook, not because it is ineffective. This playbook focuses on
+LinkedIn organic content strategy. Morgan Ingram's outbound
+framework is valuable but belongs in a dedicated outbound sales
+playbook rather than an organic content playbook.
+
+*Supporting evidence: `research/other/cross-expert-observations.md`*
+
+---
+
+### Rejected Idea 2: Build hundreds of AI workflows across all teams
+immediately
+
+**Where this idea comes from:**
+Kyle Coleman's research documents how his marketing organization
+built 230 documented AI workflows across 13 teams over 8 months.
+He presents this as a model for AI transformation and argues that
+organizations should systematically integrate AI into every stage
+of their marketing and sales operations.
+
+*Source: `research/linkedin-posts/kyle-coleman.md`*
+*Source: `research/youtube-transcripts/kyle-coleman_SXEtTqKncmk.md`*
+
+**Why I rejected this for this playbook:**
+Kyle Coleman's AI transformation framework was built inside a large,
+well-resourced marketing organization at ClickUp. His advice is
+designed for companies that already have multiple teams, established
+processes, and dedicated resources for experimentation and
+documentation.
+
+For many early-stage B2B SaaS companies covered by this playbook,
+applying this advice directly would create process overhead without
+proportional benefit. The correct application of Coleman's research
+for smaller teams is to start with one or two high-impact AI
+workflows — content drafting, research summarization, repurposing
+— and expand gradually as the team grows. Scale the principle,
+not the number.
+
+*Supporting evidence: `research/linkedin-posts/kieran-flanagan.md`*
+
+---
