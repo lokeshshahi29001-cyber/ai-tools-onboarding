@@ -272,6 +272,36 @@ The completed research repository includes:
 
 ---
 
+## Skills Demonstrated
+
+- Python scripting
+- API integration
+- ...
+- AI-assisted productivity
+
+---
+
+## Playbook / SOP
+
+As part of the final stage of this portfolio assignment, this repository includes a comprehensive Playbook / SOP derived from the completed research.
+
+The playbook translates the findings from ten leading B2B SaaS practitioners into an actionable LinkedIn Organic Content Strategy.
+
+It includes:
+
+- Evidence-backed recommendations
+- Areas where experts disagree
+- Recommendations that were intentionally rejected
+- Original strategic ideas
+- Known weaknesses and limitations
+- Critical evaluation of expert advice
+
+Location:
+
+docs/playbook.md
+
+---
+
 ## Future Improvements
 
 - Automate LinkedIn post collection
