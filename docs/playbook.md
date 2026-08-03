@@ -535,3 +535,87 @@ increasingly valuable competitive advantage.
 - `research/linkedin-posts/ross-simmonds.md`
 
 ---
+---
+
+## Section 5: Weaknesses of this Playbook
+
+Honest self-assessment is an important part of good research. This
+section identifies genuine limitations of this playbook that readers
+should consider before applying its recommendations.
+
+---
+
+### Weakness 1: Most experts have large, established audiences
+
+The experts researched for this playbook—including Justin Welsh, Lara
+Acosta, Dave Gerhardt, Ross Simmonds, and others—already had
+significant LinkedIn audiences when they developed and shared their
+strategies. Their recommendations on content formats, posting
+frequency, and engagement were shaped by audiences that already
+trusted them.
+
+A creator or B2B SaaS company starting from zero followers faces a
+different challenge. Strategies that work for someone with tens of
+thousands of followers may produce different results for someone with
+only a few hundred. This playbook does not fully address the
+cold-start problem.
+
+*Related source: `research/linkedin-posts/justin-welsh.md`*
+
+---
+
+### Weakness 2: LinkedIn's algorithm changes over time
+
+Several recommendations in this playbook—particularly those related
+to profile optimization, content relevance, and distribution—reflect
+research collected during 2025 and 2026. Lara Acosta's research
+specifically references LinkedIn's engineering guidance from that
+period.
+
+LinkedIn regularly updates its recommendation system. Strategies that
+perform well today may become less effective as the platform evolves.
+This playbook should therefore be treated as a guide for
+experimentation rather than a permanent formula.
+
+*Related source: `research/linkedin-posts/lara-acosta.md`*
+
+---
+
+### Weakness 3: Most evidence comes from practitioner experience
+
+The recommendations in this playbook are based on the experience of
+successful practitioners rather than controlled academic research.
+The experts describe what worked in their own organizations and
+businesses, but those experiences were not tested under identical
+conditions.
+
+What worked for Justin Welsh building a personal brand may not produce
+the same results for a B2B SaaS company selling enterprise software.
+Likewise, Kyle Coleman's experience leading AI adoption at ClickUp
+may not directly apply to a five-person startup. Context matters, and
+this playbook cannot account for every organization's situation.
+
+*Related sources:*
+
+- `research/linkedin-posts/justin-welsh.md`
+- `research/linkedin-posts/kyle-coleman.md`
+
+---
+
+### Weakness 4: Some expert recommendations differ
+
+As discussed in Section 2, the experts sometimes emphasize different
+strategic approaches. For example, Ross Simmonds encourages broad
+multi-channel distribution, while Justin Welsh recommends mastering a
+single platform before expanding. Dave Gerhardt emphasizes protecting
+brand quality, whereas Kyle Coleman focuses on large-scale AI
+integration.
+
+This playbook explains my position on each difference, but those
+conclusions represent my interpretation of the available evidence.
+Readers working in different industries, company sizes, or growth
+stages may reasonably choose different approaches.
+
+*Related source: `research/other/cross-expert-observations.md`*
+
+---
