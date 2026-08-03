@@ -246,7 +246,7 @@ The completed research repository includes:
 
 ---
 
-## Skills Demonstrated
+## Technical Skills Demonstrated
 
 - Python scripting
 
