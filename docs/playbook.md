@@ -466,3 +466,72 @@ not the number.
 *Supporting evidence: `research/linkedin-posts/kieran-flanagan.md`*
 
 ---
+---
+
+## Section 4: My Original Ideas
+
+This section contains one original idea that did not appear explicitly
+in any of the ten expert sources researched for this repository. It is
+inspired by patterns observed across the research but is my own
+recommendation rather than advice taken directly from a single expert.
+
+---
+
+### Original Idea: Fact-check your own LinkedIn content before publishing
+
+Every expert in this repository emphasizes the importance of building
+trust and credibility through content. Amanda Natividad focuses on
+delivering genuine value. Dave Gerhardt warns that generic AI-generated
+content damages brand credibility. Rand Fishkin highlights the growing
+importance of trust as buyers increasingly rely on AI assistants,
+Reddit, review platforms, and independent communities during their
+research. Ross Simmonds also emphasizes that buyers discover brands
+across multiple channels before making purchasing decisions.
+
+However, none of the experts recommend a structured process for
+verifying the accuracy of content before it is published.
+
+**The idea:**
+
+Before publishing any LinkedIn post, article, or comparison page—
+especially one containing statistics, pricing information, competitor
+claims, or industry data—perform a dedicated fact-checking step.
+
+The process includes:
+
+- Identifying every factual claim in the content.
+- Tracing each claim back to a reliable primary source.
+- Flagging claims that cannot be independently verified.
+- Revising or removing unsupported claims before publishing.
+
+**Why this matters:**
+
+B2B buyers are increasingly skeptical and often validate information
+using search engines, AI assistants, Reddit discussions, and review
+platforms before trusting a vendor. A single inaccurate statistic or
+unsupported claim can damage the credibility that consistent content
+creation has built over months.
+
+As AI-assisted writing becomes more common, confidently written but
+unverified statements are becoming increasingly common as well. Building
+a reputation for publishing accurate, well-supported content can become
+a long-term competitive advantage.
+
+**How this connects to the research:**
+
+This idea combines Amanda Natividad's focus on delivering genuine value,
+Dave Gerhardt's emphasis on protecting brand credibility, Rand
+Fishkin's focus on buyer trust across independent platforms, and Ross
+Simmonds' recommendation to think beyond a single marketing channel.
+While none of them explicitly recommend a formal fact-checking workflow,
+their combined research suggests that credibility is becoming an
+increasingly valuable competitive advantage.
+
+**Related sources:**
+
+- `research/linkedin-posts/amanda-natividad.md`
+- `research/linkedin-posts/dave-gerhardt.md`
+- `research/linkedin-posts/rand-fishkin.md`
+- `research/linkedin-posts/ross-simmonds.md`
+
+---
