@@ -119,3 +119,283 @@ Do not skip ahead to tactics before your positioning, audience, and success metr
 ---
 
 *Sections 4 and beyond will be added after review and approval of this introduction.*
+
+---
+
+# 2. Evidence-Based Recommendations
+
+The following recommendations are synthesized from the research conducted on ten leading B2B SaaS marketing practitioners. Rather than following a single expert, this playbook combines recurring patterns that appeared across multiple sources in this repository. Each recommendation is supported by the research files collected during this project.
+
+---
+
+### Recommendation 1: Deliver value before promoting your product
+
+Create content that educates, solves problems, or answers common customer questions before promoting products or services. Multiple experts emphasize that trust is earned by consistently providing useful information. Promotional content becomes more effective after credibility has been established through valuable educational content.
+
+**Supported by:**
+- Amanda Natividad
+- Devin Reed
+
+**Repository Sources:**
+- `research/linkedin-posts/amanda-natividad.md`
+- `research/linkedin-posts/devin-reed.md`
+
+---
+
+### Recommendation 2: Build content around audience problems instead of assumptions
+
+The most effective content begins with understanding customer pain points, frequently asked questions, and real buying challenges. Research-driven content is more likely to generate meaningful engagement than content based solely on personal opinions or trending topics.
+
+**Supported by:**
+- Amanda Natividad
+- Rand Fishkin
+
+**Repository Sources:**
+- `research/linkedin-posts/amanda-natividad.md`
+- `research/linkedin-posts/rand-fishkin.md`
+
+---
+
+### Recommendation 3: Build repeatable content systems instead of chasing viral posts
+
+Long-term success on LinkedIn depends on consistency rather than occasional viral posts. Establish repeatable workflows for planning, writing, reviewing, publishing, and repurposing content. A structured process produces more reliable results than constantly trying to recreate viral success.
+
+**Supported by:**
+- Devin Reed
+- Lara Acosta
+
+**Repository Sources:**
+- `research/linkedin-posts/devin-reed.md`
+- `research/linkedin-posts/lara-acosta.md`
+
+---
+
+### Recommendation 4: Combine educational content with authentic personal experience
+
+Research across multiple experts shows that educational frameworks become more engaging when combined with personal stories, real examples, and lessons learned. Authentic experiences make complex ideas easier to understand while strengthening credibility.
+
+**Supported by:**
+- Lara Acosta
+- Justin Welsh
+
+**Repository Sources:**
+- `research/linkedin-posts/lara-acosta.md`
+- `research/linkedin-posts/justin-welsh.md`
+
+---
+
+### Recommendation 5: Treat AI as a productivity tool, not a replacement for expertise
+
+AI should be used to accelerate research, brainstorming, drafting, summarization, and workflow automation. Strategic thinking, positioning, creativity, and final editorial decisions should remain human responsibilities. AI is most effective when it enhances expertise rather than replacing it.
+
+**Supported by:**
+- Kieran Flanagan
+- Kyle Coleman
+
+**Repository Sources:**
+- `research/linkedin-posts/kieran-flanagan.md`
+- `research/linkedin-posts/kyle-coleman.md`
+
+---
+
+### Recommendation 6: Develop a distinctive brand and point of view
+
+Publishing accurate information is no longer enough to stand out. The research consistently highlights the importance of developing a recognizable voice, clear positioning, and a unique perspective that differentiates content from generic or AI-generated material.
+
+**Supported by:**
+- Dave Gerhardt
+- Lara Acosta
+
+**Repository Sources:**
+- `research/linkedin-posts/dave-gerhardt.md`
+- `research/linkedin-posts/lara-acosta.md`
+
+---
+
+### Recommendation 7: Distribute content beyond LinkedIn
+
+Although LinkedIn is the primary channel for this playbook, several experts recommend distributing content through additional platforms such as newsletters, YouTube, blogs, communities, and other channels where potential buyers consume information. Multi-channel distribution increases the long-term value of each piece of content.
+
+**Supported by:**
+- Ross Simmonds
+- Kieran Flanagan
+
+**Repository Sources:**
+- `research/linkedin-posts/ross-simmonds.md`
+- `research/linkedin-posts/kieran-flanagan.md`
+
+---
+
+### Recommendation 8: Build a complete and credible professional profile
+
+Before investing heavily in content creation, ensure that your LinkedIn profile clearly communicates who you are, who you help, and the value you provide. A complete profile strengthens credibility and helps visitors quickly understand your expertise after reading your content.
+
+**Supported by:**
+- Lara Acosta
+- Justin Welsh
+
+**Repository Sources:**
+- `research/linkedin-posts/lara-acosta.md`
+- `research/linkedin-posts/justin-welsh.md`
+
+---
+
+### Recommendation 9: Align content with measurable business goals
+
+Content should support broader business objectives rather than exist as an isolated marketing activity. Whether the goal is brand awareness, demand generation, pipeline growth, or customer education, every content initiative should have a clear purpose and measurable outcome.
+
+**Supported by:**
+- Kyle Coleman
+- Morgan J. Ingram
+
+**Repository Sources:**
+- `research/linkedin-posts/kyle-coleman.md`
+- `research/linkedin-posts/morgan-ingram.md`
+
+---
+
+### Recommendation 10: Continuously experiment and improve
+
+No single content formula works forever. The experts consistently encourage testing different formats, topics, posting styles, and engagement approaches while measuring performance and refining future content based on evidence rather than assumptions.
+
+**Supported by:**
+- Devin Reed
+- Rand Fishkin
+
+**Repository Sources:**
+- `research/linkedin-posts/devin-reed.md`
+- `research/linkedin-posts/rand-fishkin.md`
+
+---
+
+### Recommendation 11: Build long-term trust instead of optimizing only for engagement
+
+Likes and impressions are useful indicators, but they should not become the primary objective. Sustainable LinkedIn growth comes from consistently delivering value, building credibility, and maintaining authentic relationships with the audience over time.
+
+**Supported by:**
+- Amanda Natividad
+- Dave Gerhardt
+
+**Repository Sources:**
+- `research/linkedin-posts/amanda-natividad.md`
+- `research/linkedin-posts/dave-gerhardt.md`
+
+---
+
+### Recommendation 12: Document and improve your content process continuously
+
+Maintain documentation of successful content formats, publishing workflows, audience insights, and lessons learned. Treat content creation as an evolving process that improves through regular review, experimentation, and knowledge sharing within the team.
+
+**Supported by:**
+- Devin Reed
+- Kyle Coleman
+
+**Repository Sources:**
+- `research/linkedin-posts/devin-reed.md`
+- `research/linkedin-posts/kyle-coleman.md`
+
+---
+---
+
+## Section 2: Where Experts Differ in Their Recommendations
+
+This section highlights three areas where the experts emphasize different
+strategic approaches. In each case, I compare their perspectives and
+explain which approach I would adopt and why.
+
+---
+
+### Difference 1: Distribute content everywhere vs. master one platform first
+
+**Ross Simmonds recommends: Distribute everywhere buyers research.**
+His research shows that B2B buying decisions are shaped before prospects
+ever visit a company website. Buyers research on Reddit, YouTube, review
+platforms, and AI assistants. He argues that LinkedIn alone is not enough
+and that brands must build presence across every channel where buyers
+spend time.
+
+*Source: `research/linkedin-posts/ross-simmonds.md`*
+
+**Justin Welsh recommends: Master one platform before expanding.**
+His research consistently shows that trying to be everywhere at once
+dilutes focus and slows growth. He built a $10M business by going deep
+on LinkedIn first before expanding to other channels.
+
+*Source: `research/linkedin-posts/justin-welsh.md`*
+
+**My position: Justin Welsh is right for early stage, Ross Simmonds
+is right at scale.**
+
+A new creator or small B2B SaaS team does not have the bandwidth to
+maintain quality across Reddit, YouTube, LinkedIn, and newsletters
+simultaneously. Master LinkedIn first. Build a repeatable system.
+Then expand distribution once the content engine is working. Ross
+Simmonds' advice applies better to companies that already have
+established content operations.
+
+---
+
+### Difference 2: AI as a creative tool vs. AI as a workflow system
+(difference in emphasis, not contradiction)
+
+**Dave Gerhardt emphasizes: Protect your brand from generic AI output.**
+He warns that relying on AI-generated content produces marketing that
+blends into the market. He calls out "slop" — content that sounds
+polished but carries no distinctive point of view. His research across
+100 B2B SaaS companies shows that memorable brands invest in unique
+assets and positioning, not interchangeable AI output.
+
+*Source: `research/linkedin-posts/dave-gerhardt.md`*
+
+**Kyle Coleman emphasizes: Build AI deeply into your workflows.**
+His research documents 230 AI workflows across 13 teams built over
+8 months. He frames AI adoption as a full organizational transformation
+that dramatically improves marketing efficiency and scalability when
+approached systematically.
+
+*Source: `research/linkedin-posts/kyle-coleman.md`*
+
+**My position: These are compatible, not contradictory.**
+
+Gerhardt is warning against using AI as a substitute for brand
+thinking. Coleman is describing using AI to automate operational
+work. The mistake is using AI to replace brand voice and judgment.
+The opportunity is using AI to scale the work around content.
+Use AI for process and workflow. Keep humans responsible for
+positioning, creativity, and final decisions.
+
+---
+
+### Difference 3: Human relationships are irreplaceable vs. AI transformation
+is essential
+
+**Morgan J. Ingram recommends: Protect and develop human sales skills.**
+His research explicitly warns that companies cutting SDR teams to replace
+them with AI will face talent crises later. He argues that critical
+thinking, empathy, relationship building, and reading the room are skills
+AI cannot replicate. The long-term competitive advantage in B2B comes
+from how sales professionals engage buyers, not from AI access alone.
+
+*Source: `research/linkedin-posts/morgan-ingram.md`*
+
+**Kyle Coleman recommends: Deep AI integration across the entire
+revenue organization.**
+His research shows that AI can automate prospect research, account
+intelligence, personalized outreach, meeting preparation, and workflow
+management at scale. He treats AI transformation as a competitive
+necessity, not an option.
+
+*Source: `research/linkedin-posts/kyle-coleman.md`*
+
+**My position: Morgan Ingram identifies the risk, Kyle Coleman
+identifies the opportunity.**
+
+Companies that replace human judgment entirely with AI lose the
+relationship-building capability that closes deals. Companies that
+ignore AI fall behind on speed and efficiency. The correct approach
+is AI-enabled humans — using AI to handle research and operational
+tasks while humans focus on the conversations, trust-building, and
+judgment calls that actually move deals forward. Both experts are
+right about different parts of the same problem.
+
+---
