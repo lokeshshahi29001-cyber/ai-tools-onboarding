@@ -619,3 +619,49 @@ stages may reasonably choose different approaches.
 *Related source: `research/other/cross-expert-observations.md`*
 
 ---
+---
+
+## Section 6: Who I Would NOT Recommend Following and Why
+
+This section identifies the expert whose advice I would be least likely
+to recommend for someone using this playbook. This is not a judgment of
+the expert's credibility or expertise. Instead, it reflects how closely
+their research aligns with the specific goal of this playbook: helping
+early-stage B2B SaaS companies build an organic LinkedIn content
+strategy.
+
+---
+
+### Morgan J. Ingram
+
+Morgan J. Ingram is an experienced sales leader whose research focuses
+primarily on outbound sales, SDR development, pipeline generation, and
+AI-assisted prospecting. His work provides valuable guidance for sales
+teams that rely on direct outreach to generate revenue.
+
+*Source: `research/linkedin-posts/morgan-ingram.md`*
+
+*Source: `research/youtube-transcripts/morgan-ingram_aeu_fcrQM-w.md`*
+
+However, I would be least likely to recommend following Morgan J.
+Ingram as the **primary** source for someone whose immediate goal is
+building an organic LinkedIn content strategy.
+
+The central theme of this playbook is creating trust and attracting
+inbound opportunities through consistent educational content. Most of
+the other experts—including Amanda Natividad, Lara Acosta, Dave
+Gerhardt, Ross Simmonds, Justin Welsh, and Devin Reed—focus directly on
+content strategy, positioning, audience building, and brand
+development.
+
+Morgan J. Ingram's recommendations are designed for organizations that
+already have outbound sales processes or SDR teams. Applying his
+framework too early could encourage a small B2B SaaS company to invest
+more effort in outbound prospecting before establishing a strong
+organic content foundation.
+
+This does not mean his advice lacks value. Instead, I believe it is most
+useful after an organization has built a consistent content engine and
+is ready to combine inbound content with outbound sales activities.
+
+---
